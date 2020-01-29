@@ -47,6 +47,10 @@
  * representations about the suitability of this software for any
  * purpose.  It is provided "as is" without express or implied warranty.
  *
+ * 
+ * Copyright (c) 2020
+ *
+ * Yougaein@github (Kokeji Yougain)
  *
  */
 #include <iostream>

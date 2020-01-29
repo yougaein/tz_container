@@ -46,6 +46,10 @@
  * in supporting documentation.  Silicon Graphics makes no
  * representations about the suitability of this software for any
  * purpose.  It is provided "as is" without express or implied warranty.
+ * 
+ * Copyright (c) 2020
+ *
+ * Yougaein@github (Kokeji Yougain)
  */
 
 /** @file bits/stl_set.h

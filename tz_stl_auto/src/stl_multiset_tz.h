@@ -113,6 +113,7 @@ _GLIBCXX_BEGIN_NAMESPACE_CONTAINER
       typedef _Rb_tree<key_type, value_type, _Identity<value_type>,
 		       key_compare, _Key_alloc_type> _Rep_type;
       /// The actual tree structure.
+    public:
       _Rep_type _M_t;
 
     public:
